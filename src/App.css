@@ -1,0 +1,12 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+h1,p{
+  margin-bottom: 2rem;
+}
+span{
+  color: rgb(51, 151, 181);
+  text-decoration: underline;
+}
